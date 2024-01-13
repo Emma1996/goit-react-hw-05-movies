@@ -1,0 +1,26 @@
+/* MovieDetails styling */
+.movieDetails {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.movieDetails h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.movieDetails p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.movieDetails img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+ul {
+  list-style: none;
+}
